@@ -6,5 +6,4 @@ public enum ATMStatus {
     CARD_INSERTED,
     AUTHENTICATED,
     CASH_DISPENSE
-
 }
